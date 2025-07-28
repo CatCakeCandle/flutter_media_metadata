@@ -1,3 +1,12 @@
+## 1.0.1
+
+- Add namespace support for Android Gradle Plugin 7.0+ compatibility (@nick).
+- Update Android Gradle Plugin from 7.2.1 to 8.2.2 (@nick).
+- Update compileSdkVersion from 32 to 36 (@nick).
+- Migrate to Android embedding v2 (@MarsadMaqsood).
+- Fix lint warnings and improve code quality (@MarsadMaqsood).
+- Update dependencies and improve project structure.
+
 ## 1.0.0
 
 - Now supporting all platforms Windows, Linux, macOS, Android, iOS & Web.
