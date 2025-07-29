@@ -2,3 +2,8 @@ include: package:flutter_lints/flutter.yaml
 
 linter:
   rules:
+    # 启用一些额外的规则
+    prefer_const_constructors: true
+    prefer_const_literals_to_create_immutables: true
+    avoid_print: true
+    prefer_single_quotes: true

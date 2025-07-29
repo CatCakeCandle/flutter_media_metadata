@@ -7,3 +7,6 @@
 build/
 
 .vscode
+
+# Editor history files
+.history/
